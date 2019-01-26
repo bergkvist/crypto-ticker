@@ -1,6 +1,6 @@
 {
   "name": "@bergkvist/crypto-ticker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI tool to fetch the price of any cryptocurrency",
   "main": "index.js",
   "scripts": {
