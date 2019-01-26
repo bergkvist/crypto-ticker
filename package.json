@@ -1,0 +1,16 @@
+{
+  "name": "@bergkvist/crypto-ticker",
+  "version": "1.0.0",
+  "description": "CLI tool to fetch the price of any cryptocurrency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crypto",
+    "currency",
+    "cli"
+  ],
+  "author": "Tobias Bergkvist (tobias@bergkv.ist)",
+  "license": "ISC"
+}
